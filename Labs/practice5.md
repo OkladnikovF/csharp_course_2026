@@ -21,7 +21,7 @@
 Обратите внимание на класс `ChartDataGenerator`.
 В нем есть метод `GenerateRandomChartData`, который использует метод `GenerateExperimentResults`.
 
-Вам необходимо реализовать класс `RandomExtensions` в соответсвующем файле папки Practice5. В нем необходимо сделать 2 метода расширения:
+Вам необходимо реализовать класс `RandomExtensions` в соответсвующем файле папки Lab5. В нем необходимо сделать 2 метода расширения:
 - `int NextInclusive` - принимает `int min, int max`
 - `double NextDoubleInclusive` - принимает `double min, double max`.
 
